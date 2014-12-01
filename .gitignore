@@ -9,4 +9,5 @@
 /bin/
 /build/
 /dist/
+/lib/*/bin/
 /win32/vs2008ex/*/*
