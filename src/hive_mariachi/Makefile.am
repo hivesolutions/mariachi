@@ -16,7 +16,7 @@
 # You should have received a copy of the GNU General Public License
 # along with Hive Mariachi Engine. If not, see <http:#www.gnu.org/licenses/>.
 
-# __author__    = Jo„o Magalh„es <joamag@hive.pt>
+# __author__    = Jo√£o Magalh√£es <joamag@hive.pt>
 # __version__   = 1.0.0
 # __revision__  = $LastChangedRevision: 2390 $
 # __date__      = $LastChangedDate: 2009-04-02 08:36:50 +0100 (qui, 02 Abr 2009) $
@@ -156,9 +156,8 @@ util/byte_util.cpp \
 util/cpu_util.cpp \
 util/geometry_util.cpp \
 util/string_util.cpp \
-util/vector_util.cpp 
+util/vector_util.cpp
 
 if LINK_LUA
     libmariachi_a_SOURCES += $(lua_sources)
 endif
-

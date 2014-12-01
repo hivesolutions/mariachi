@@ -16,7 +16,7 @@
 // You should have received a copy of the GNU General Public License
 // along with Hive Mariachi Engine. If not, see <http://www.gnu.org/licenses/>.
 
-// __author__    = Jo„o Magalh„es <joamag@hive.pt>
+// __author__    = Jo√£o Magalh√£es <joamag@hive.pt>
 // __version__   = 1.0.0
 // __revision__  = $LastChangedRevision$
 // __date__      = $LastChangedDate$
@@ -52,7 +52,7 @@ NetworkKeyboard::~NetworkKeyboard() {
  */
 void NetworkKeyboard::start(void *arguments) {
     // tenho de ver aki se se trata de client ou de servidor
-    // tenho de depois comeÁar a conexao
+    // tenho de depois come√ßar a conexao
 
     // tenho de tlx criar uma stage so para este gajo
     // tem de ser assim

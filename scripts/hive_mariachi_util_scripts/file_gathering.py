@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: Cp1252 -*-
+# -*- coding: utf-8 -*-
 
 # Hive Mariachi Engine
 # Copyright (C) 2008 Hive Solutions Lda.
@@ -19,7 +19,7 @@
 # You should have received a copy of the GNU General Public License
 # along with Hive Mariachi Engine. If not, see <http://www.gnu.org/licenses/>.
 
-# __author__    = Luís Martinho <lmartinho@hive.pt>
+# __author__    = LuÃ­s Martinho <lmartinho@hive.pt>
 # __version__   = 1.0.0
 # __revision__  = $LastChangedRevision$
 # __date__      = $LastChangedDate$

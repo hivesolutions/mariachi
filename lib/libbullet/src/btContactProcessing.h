@@ -2,7 +2,7 @@
 #define BT_CONTACT_H_INCLUDED
 
 /*! \file gim_contact.h
-\author Francisco Len Nßjera
+\author Francisco Len NÃŸjera
 */
 /*
 This source file is part of GIMPACT Library.
