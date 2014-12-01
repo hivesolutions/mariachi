@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hive_mariachi", "hive_mariachi.vcproj", "{E1B0B6B0-8503-48CF-A231-65345157AA20}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hive_mariachi_runner", "hive_mariachi_runner.vcproj", "{D3FBBD0E-2202-4B2D-B527-C45C69B6B19F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B0B6B0-8503-48CF-A231-65345157AA20}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1B0B6B0-8503-48CF-A231-65345157AA20}.Debug|Win32.Build.0 = Debug|Win32
+		{E1B0B6B0-8503-48CF-A231-65345157AA20}.Release|Win32.ActiveCfg = Release|Win32
+		{E1B0B6B0-8503-48CF-A231-65345157AA20}.Release|Win32.Build.0 = Release|Win32
+		{D3FBBD0E-2202-4B2D-B527-C45C69B6B19F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D3FBBD0E-2202-4B2D-B527-C45C69B6B19F}.Debug|Win32.Build.0 = Debug|Win32
+		{D3FBBD0E-2202-4B2D-B527-C45C69B6B19F}.Release|Win32.ActiveCfg = Release|Win32
+		{D3FBBD0E-2202-4B2D-B527-C45C69B6B19F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
