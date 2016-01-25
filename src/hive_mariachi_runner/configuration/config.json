@@ -25,17 +25,24 @@
 
 {
     // the default encoding for text
-    "encoding" : "utf-8",
+    "encoding": "utf-8",
 
     // modules loaded at startup
-    "modules" : ["lua", "opengl", "direct3d", "opengles"],
+    "modules": ["lua", "opengl", "direct3d", "opengles"],
 
     // the logging support
-    "logging" : { "verbosity" : 3, "file" : 0 },
+    "logging": {
+        "verbosity": 3,
+        "file": 0
+    },
 
     // the extra paths to be used to locate files
-    "extra_paths" : ["hive_mariachi", "hive_mariachi_runner"],
+    "extra_paths": ["hive_mariachi", "hive_mariachi_runner"],
 
     // the scripting configuration
-    "scripting" : { "lua" : { "extra_paths" : ["../../scripts/hive_mariachi_lua_scripts/src/?.lua"] } }
+    "scripting": {
+        "lua": {
+            "extra_paths": ["../../scripts/hive_mariachi_lua_scripts/src/?.lua"]
+        }
+    }
 }
