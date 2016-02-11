@@ -16,7 +16,7 @@
 // You should have received a copy of the Apache License along with
 // Hive Mariachi Engine. If not, see <http://www.apache.org/licenses/>.
 
-// __author__    = Jo„o Magalh„es <joamag@hive.pt>
+// __author__    = Jo√£o Magalh√£es <joamag@hive.pt>
 // __version__   = 1.0.0
 // __revision__  = $LastChangedRevision$
 // __date__      = $LastChangedDate$
