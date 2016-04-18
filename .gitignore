@@ -7,7 +7,7 @@
 .DS_Store
 
 /bin
-/build
 /dist
+/build
 /lib/*/bin
 /win32/vs2008ex/*/*
