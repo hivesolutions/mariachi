@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # Hive Mariachi Engine
-# Copyright (c) 2008-2017 Hive Solutions Lda.
+# Copyright (c) 2008-2018 Hive Solutions Lda.
 #
 # This file is part of Hive Mariachi Engine.
 #
